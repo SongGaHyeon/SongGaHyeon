@@ -10,7 +10,7 @@
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white"/>  </a>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white"/>  </a>
 
 
 
