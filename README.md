@@ -6,11 +6,11 @@
 - ☃ I'm interested in AI, and love winter
 
 <p>
-<h3 align="center">Song USING 🍎🪟</h3>
+<h3 align="center"> Song using 🍎&🌆 </h3>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c++-#00599C?style=for-the-badge&logo=c++&logoColor=white"/>  </a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"/>  </a>
 
 
 
