@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Song%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=300&section=header&text=Song%20&fontSize=90)
 
 
 - ☃ I’m currently studying in Hufs, computer engineering
