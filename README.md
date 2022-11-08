@@ -7,7 +7,7 @@
 
 <p>
 <h3 align="center"> Song using 🍎MAC OS &🌎 windows</h3>
-<h3 align="center"> Frequently learning Linux </h3>
+<h3 align="center"> -- </h3>
 
 </p>
 <p align="center">
