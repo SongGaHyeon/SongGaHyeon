@@ -22,7 +22,6 @@
 </div>
 
 
-<br><br>
 <h3 align="center"> Using 🍎MAC OS &🌎 windows </h3>
 <h3 align="center"> </h3>
 
