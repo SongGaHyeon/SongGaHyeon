@@ -6,9 +6,9 @@
 
 <img src="https://thumbs.gfycat.com/FriendlySimpleGroundhog-size_restricted.gif" alt="FriendlySimpleGroundhog" class="tqu-gfycat-gif">
  
- <h2> ☃ I’m currently studying in Hufs, computer engineering <br> </h2>
- <h2> ☃ I’m currently learning c++/python <br></h2>
- <h2> ☃ I'm interested in AI, and love winter<br></h2>
+☃ I’m currently studying in Hufs, computer engineering <br>
+☃ I’m currently learning c++/python <br>
+☃ I'm interested in AI, and love winter<br>
 
 
 ## 🔎 Stack 
