@@ -8,7 +8,7 @@
 <img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/fa/e8/c3/fae8c3b75ade65c30882a52a3f74723f.gif">
  
  <br><br>
-☃ I’m currently studying in Hufs, computer engineering <br>
+☃ I’m Studying in Hufs, learning Computer Engineering <br>
 ☃ I’m currently learning Algorithm, Kotlin, ML <br>
 ☃ I'm interested in AI, Data Science and love winter<br>
 
