@@ -9,6 +9,9 @@
 <h3 align="center"> Song using 🍎MAC OS &🌎 windows</h3>
 <h3 align="center"> -- </h3>
 
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongGaHyeon&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
