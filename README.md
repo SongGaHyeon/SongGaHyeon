@@ -7,8 +7,8 @@
 <img src="https://thumbs.gfycat.com/FriendlySimpleGroundhog-size_restricted.gif" alt="FriendlySimpleGroundhog" class="tqu-gfycat-gif">
  
 ☃ I’m currently studying in Hufs, computer engineering <br>
-☃ I’m currently learning c++/python <br>
-☃ I'm interested in AI, and love winter<br>
+☃ I’m currently learning Algorithm, Kotlin, ML <br>
+☃ I'm interested in AI, Data Science and love winter<br>
 
 
 ## 🔎 Stack 
