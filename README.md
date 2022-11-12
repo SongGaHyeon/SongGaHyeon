@@ -10,7 +10,7 @@
 <h3 align="center"> -- </h3>
 
 #![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongGaHyeon&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongGaHyeon&show_icons=true&theme=radical)
 
 </p>
 <p align="center">
