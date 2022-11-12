@@ -6,9 +6,7 @@
 - ☃ I'm interested in AI, and love winter<br>
 
 
-<div align="center">
-<h3>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongGaHyeon&show_icons=true&theme=radical)</h3></div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongGaHyeon&show_icons=true&theme=radical)
 
 
 <p>
