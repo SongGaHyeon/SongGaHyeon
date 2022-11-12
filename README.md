@@ -3,15 +3,14 @@
 
 - ☃ I’m currently studying in Hufs, computer engineering
 - ☃ I’m currently learning c++/python
-- ☃ I'm interested in AI, and love winter
+- ☃ I'm interested in AI, and love winter<br>
 
 
-<br>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongGaHyeon&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongGaHyeon&show_icons=true&theme=radical)<br>
 
 
-<br>
+
 <p>
 <h3 align="center"> Song using 🍎MAC OS &🌎 windows</h3>
 <h3 align="center"> -- </h3>
