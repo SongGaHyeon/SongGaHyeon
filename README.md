@@ -7,7 +7,7 @@
 
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongGaHyeon&show_icons=true&theme=radical)</div>
+<h3>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongGaHyeon&show_icons=true&theme=radical)</h3></div>
 
 
 
