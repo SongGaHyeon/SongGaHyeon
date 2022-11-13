@@ -14,12 +14,6 @@
 
 
  <br><br>
-## 🔎 Stack 
-  
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white"/><br/>
-</div>
 
 
 <h3 align="center"> Using 🍎MAC OS &🌎 windows </h3>
