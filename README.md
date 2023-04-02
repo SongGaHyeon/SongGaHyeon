@@ -9,8 +9,8 @@
  
  <br><br>
 ☃ I’m Studying in Hufs, learning Computer Engineering <br>
-☃ I’m currently learning Algorithm, Kotlin, ML <br>
-☃ I'm interested in AI, Data Science and love winter<br>
+☃ I'm currently working as a web developer for a while - Using Java (back/server) , Vue (Front) <br>
+☃ I'm interested in AI, Data Science and Web-programming <br>
 
 
  <br><br>
