@@ -1,6 +1,6 @@
 <div align="center">
  
-# Hello, I'm Song 😎
+# Ganni's Github 😎
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongGaHyeon%2FSongGaHyeon%2Fblob%2Fmain%2FREADME.md&count_bg=%23FFB191&title_bg=%23FCC5D5&icon=&icon_color=%23DFD3E6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
