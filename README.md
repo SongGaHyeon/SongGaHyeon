@@ -6,7 +6,7 @@
  
  <br><br>
 ☃ HUFS Computer Engineering BS , 2021~ <br>
-☃ Like Lion , 2021 <br>
+☃ HUFS Like Lion 19th, 2021 <br>
 ☃ GDSC Core Member, 2022 <br>
 ☃ SDS web project , 2023 <br>
 <br>
