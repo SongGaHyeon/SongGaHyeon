@@ -1,6 +1,6 @@
 <div align="center">
  
-# Ganni's Github 😎
+# Ganni's Github 
   
 
  
